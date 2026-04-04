@@ -50,6 +50,7 @@ If you need someone who can take a product from idea to deployed — that's what
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
@@ -60,8 +61,9 @@ If you need someone who can take a product from idea to deployed — that's what
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Payments & Automation
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Flutterwave](https://img.shields.io/badge/Flutterwave-F5A623?style=flat-square)
 ![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
@@ -74,7 +76,7 @@ If you need someone who can take a product from idea to deployed — that's what
 
 Multi-provider integrations · recurring topup subscriptions · transaction analytics  
 Webhook handling · admin dashboard · mobile-ready UI  
-`Node.js` `React` `PostgreSQL` `Paystack`
+`Next.js` `Supabase` `Tailwind CSS` `Flutterwave`
 
 ---
 
@@ -82,7 +84,7 @@ Webhook handling · admin dashboard · mobile-ready UI
 > Marketplace and admin panel for local businesses.
 
 Seller onboarding · buyer flows · order management · admin metrics  
-`Next.js` `TypeScript` `PostgreSQL` `Stripe`
+`Node.js` `Express` `PostgreSQL` `React` `Vite` `Tailwind CSS`
 
 ---
 
@@ -110,17 +112,21 @@ CSV processing · data migration scripts · shell helpers
 
 ---
 
-## $ git log --oneline --stat
+## $ git log --all --author="Trimwet" --oneline
 
-<div align="center">
+### [IT Place Finder](https://github.com/jonahmafuyai/it-place-finder)
+> A web app helping Nigerian students discover SIWES placements and tech internships across Nigeria.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trimwet&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Trimwet)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trimwet&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Trimwet)
+Interactive Nigeria map · hub discovery · guest application flow · admin dashboard  
+`React` `Supabase` `Tailwind CSS`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Trimwet&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/Trimwet)
+---
 
-</div>
+### [Campus Buy NG](https://github.com/rijing240/Campusbuyng)
+> Campus marketplace connecting student buyers and sellers across Nigerian universities.
+
+Student-focused buy/sell flows · campus-scoped listings · peer-to-peer transactions  
+`React` `Node.js` `PostgreSQL`
 
 ---
 
@@ -135,9 +141,9 @@ CSV processing · data migration scripts · shell helpers
   │    Dockerfile       reproducible local environment       │
   │                                                          │
   │  Git workflow:                                           │
-  │    feat/<name>          new features                     │
-  │    fix/<name>           bug fixes                        │
-  │    chore/docs/<name>    maintenance + documentation      │
+  │    feat/<n>          new features                        │
+  │    fix/<n>           bug fixes                           │
+  │    chore/docs/<n>    maintenance + documentation         │
   │                                                          │
   │  PRs always include: tests · description · screenshots   │
   │  Beginner issues tagged: good-first-issue                │
@@ -154,7 +160,7 @@ CSV processing · data migration scripts · shell helpers
 
   What I bring to a team:
     ✓  End-to-end ownership — I take features from spec to prod
-    ✓  Payment systems experience (Stripe, Paystack, webhooks)
+    ✓  Payment systems experience (Flutterwave, Paystack, Stripe)
     ✓  API design, auth architecture, background job patterns
     ✓  Automation mindset — I remove toil before it piles up
     ✓  I write documentation and I actually mean it
@@ -193,3 +199,4 @@ CSV processing · data migration scripts · shell helpers
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/Trimwet/Trimwet/blob/main/LICENSE)
 
 </div>
+
