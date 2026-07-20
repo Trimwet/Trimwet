@@ -10,7 +10,7 @@
 <div align="center">
 
 **Mafuyai Jonah Trimwet** &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Product Builder &nbsp;·&nbsp; Automator  
-Jos, Plateau State · Nigeria 🇳🇬
+ · Uk
 
 [![Email](https://img.shields.io/badge/jonahtrimwet@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jonahtrimwet@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trimwet-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trimwet-trimwet-052208342)
