@@ -131,13 +131,7 @@ Student-focused buy/sell flows, campus-scoped listings, peer-to-peer transaction
 
 ---
 
-#### [MedBot](https://github.com/Y-Ice/MedBot)
-> Health triage chatbot with facility routing -- collaborative build.
 
-Symptom analysis, condition assessment, nearest health center directions.
-`JavaScript`
-
----
 
 ## cat ./how-i-work.txt
 
