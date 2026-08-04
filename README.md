@@ -1,16 +1,13 @@
-```
-  ████████╗██████╗ ██╗███╗   ███╗██╗    ██╗███████╗████████╗
-  ╚══██╔══╝██╔══██╗██║████╗ ████║██║    ██║██╔════╝╚══██╔══╝
-     ██║   ██████╔╝██║██╔████╔██║██║ █╗ ██║█████╗     ██║
-     ██║   ██╔══██╗██║██║╚██╔╝██║██║███╗██║██╔══╝     ██║
-     ██║   ██║  ██║██║██║ ╚═╝ ██║╚███╔███╔╝███████╗   ██║
-     ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚══╝╚══╝╚══════╝   ╚═╝
-```
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ•—   â–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•—    â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
+  â•šâ•â•â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘    â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â•â•â•šâ•â•â–ˆâ–ˆâ•”â•â•â•
+     â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â–ˆâ–ˆâ–ˆâ–ˆâ•”â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘ â–ˆâ•— â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—     â–ˆâ–ˆâ•‘
+     â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•     â–ˆâ–ˆâ•‘
+     â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘ â•šâ•â• â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ–ˆâ•”â–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—   â–ˆâ–ˆâ•‘
+     â•šâ•â•   â•šâ•â•  â•šâ•â•â•šâ•â•â•šâ•â•     â•šâ•â• â•šâ•â•â•â•šâ•â•â•â•šâ•â•â•â•â•â•â•   â•šâ•â•
 
 <div align="center">
 
-**Mafuyai Jonah Trimwet** &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Product Builder &nbsp;·&nbsp; Automator  
- · 
+**Mafuyai Jonah Trimwet** &nbsp;Â·&nbsp; Full-Stack Engineer &nbsp;Â·&nbsp; AI Agent Builder &nbsp;Â·&nbsp; Product Builder
 
 [![Email](https://img.shields.io/badge/jonahtrimwet@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jonahtrimwet@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trimwet-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trimwet-trimwet-052208342)
@@ -23,16 +20,17 @@
 
 ## $ whoami
 
-I'm a full-stack engineer who ships complete products — not just components.  
-I've built VTU platforms, marketplaces, payment integrations, REST APIs, CLI tools, and business automations from scratch to production.
+I'm a full-stack engineer who ships complete products â€” not just components.
+I've built VTU platforms, marketplaces, payment integrations, REST APIs, CLI tools, business automations, and now **multi-agent AI systems** from scratch to production.
 
-I care about clean architecture, readable code, and software that actually solves a problem.  
-If you need someone who can take a product from idea to deployed — that's what I do.
+I care about clean architecture, readable code, and software that actually solves a problem.
+If you need someone who can take a product from idea to deployed â€” that's what I do.
 
 ```
  Currently building:
-   → tada-vtu   VTU dashboard · airtime/data topups · provider integrations · analytics
-   → biz_book   Marketplace + admin panel · seller/buyer flows · metrics
+   â†’ orgle       Multi-agent orchestration framework Â· OpenCode bridge Â· Buzz relay Â· agent harness
+   â†’ tada-vtu    VTU dashboard Â· airtime/data/cable/electricity topups Â· provider integrations
+   â†’ med-bot     Health triage chatbot Â· symptom analysis Â· nearest facility routing
 ```
 
 ---
@@ -54,6 +52,12 @@ If you need someone who can take a product from idea to deployed — that's what
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
+### AI & Agent Systems
+![OpenCode](https://img.shields.io/badge/OpenCode-FF6B35?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 ### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -71,83 +75,93 @@ If you need someone who can take a product from idea to deployed — that's what
 
 ## $ cat ./projects
 
-### [tada-vtu](https://github.com/Trimwet/tada-vtu)
-> VTU platform for airtime and data topups — built for Nigerian mobile networks.
+### Solo Projects
 
-Multi-provider integrations · recurring topup subscriptions · transaction analytics  
-Webhook handling · admin dashboard · mobile-ready UI  
+#### [orgle](https://github.com/Trimwet/orgle)
+> Multi-agent orchestration framework with OpenCode bridge and Buzz relay.
+
+Agent registry Â· harness loop Â· tool execution Â· verification layer
+OpenCode integration for free model access Â· inter-agent communication
+`TypeScript` `Bun` `OpenCode` `Buzz Relay` `SQLite`
+
+---
+
+#### [tada-vtu](https://github.com/Trimwet/tada-vtu)
+> Comprehensive VTU platform for airtime, data, cable TV, electricity, and betting services.
+
+Multi-provider integrations Â· recurring topup subscriptions Â· transaction analytics
+Webhook handling Â· admin dashboard Â· mobile-ready UI
 `Next.js` `Supabase` `Tailwind CSS` `Flutterwave`
 
 ---
 
-### [biz_book](https://github.com/Trimwet/biz_book)
+#### [med-bot](https://github.com/Trimwet/med-bot)
+> Health triage chatbot â€” symptom analysis and nearest facility routing.
+
+Symptom assessment Â· condition triage Â· facility finder
+`TypeScript`
+
+---
+
+#### [biz_book](https://github.com/Trimwet/biz_book)
 > Marketplace and admin panel for local businesses.
 
-Seller onboarding · buyer flows · order management · admin metrics  
+Seller onboarding Â· buyer flows Â· order management Â· admin metrics
 `Node.js` `Express` `PostgreSQL` `React` `Vite` `Tailwind CSS`
 
 ---
 
-### [payment-demo](https://github.com/Trimwet/payment-demo)
-> Clean reference implementation for Stripe and Paystack.
+#### [it-place-finder](https://github.com/jonahmafuyai/it-place-finder)
+> Web app helping Nigerian students discover SIWES placements and tech internships.
 
-Checkout flows · webhook verification · refund handling · test + prod config  
-`Node.js` `Stripe` `Paystack`
-
----
-
-### [auth-starter](https://github.com/Trimwet/auth-starter)
-> Secure auth boilerplate — JWT + refresh tokens + session management.
-
-Access/refresh token rotation · protected routes · cookie handling  
-`Express` `TypeScript` `JWT`
-
----
-
-### [cli-utils](https://github.com/Trimwet/cli-utils)
-> Practical command-line tools for dev tasks.
-
-CSV processing · data migration scripts · shell helpers  
-`Node.js` `Bun` `TypeScript`
-
----
-
-## $ git log --all --author="Trimwet" --oneline
-
-### [IT Place Finder](https://github.com/jonahmafuyai/it-place-finder)
-> A web app helping Nigerian students discover SIWES placements and tech internships across Nigeria.
-
-Interactive Nigeria map · hub discovery · guest application flow · admin dashboard  
+Interactive Nigeria map Â· hub discovery Â· guest application flow Â· admin dashboard
 `React` `Supabase` `Tailwind CSS`
 
 ---
 
-### [Campus Buy NG](https://github.com/rijing240/Campusbuyng)
+### Collaborated Projects
+
+#### [Campusbuyng](https://github.com/rijing240/Campusbuyng)
 > Campus marketplace connecting student buyers and sellers across Nigerian universities.
 
-Student-focused buy/sell flows · campus-scoped listings · peer-to-peer transactions  
-`React` `Node.js` `PostgreSQL`
+Student-focused buy/sell flows Â· campus-scoped listings Â· peer-to-peer transactions
+`React` `Node.js` `TypeScript`
+
+---
+
+#### [CampusBuy](https://github.com/rijing240/CampusBuy)
+> Online marketplace for campus communities.
+
+`TypeScript`
+
+---
+
+#### [MedBot](https://github.com/Y-Ice/MedBot)
+> Health triage chatbot with facility routing â€” collaborative build.
+
+Symptom analysis Â· condition assessment Â· nearest health center directions
+`JavaScript`
 
 ---
 
 ## $ cat ./how-i-work.txt
 
 ```
-  ┌──────────────────────────────────────────────────────────┐
-  │  Every repo I push ships with:                           │
-  │                                                          │
-  │    README.md        clear setup + usage docs             │
-  │    .env.example     no secrets committed, ever           │
-  │    Dockerfile       reproducible local environment       │
-  │                                                          │
-  │  Git workflow:                                           │
-  │    feat/<n>          new features                        │
-  │    fix/<n>           bug fixes                           │
-  │    chore/docs/<n>    maintenance + documentation         │
-  │                                                          │
-  │  PRs always include: tests · description · screenshots   │
-  │  Beginner issues tagged: good-first-issue                │
-  └──────────────────────────────────────────────────────────┘
+  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+  â”‚  Every repo I push ships with:                           â”‚
+  â”‚                                                          â”‚
+  â”‚    README.md        clear setup + usage docs             â”‚
+  â”‚    .env.example     no secrets committed, ever           â”‚
+  â”‚    Dockerfile       reproducible local environment       â”‚
+  â”‚                                                          â”‚
+  â”‚  Git workflow:                                           â”‚
+  â”‚    feat/<n>          new features                        â”‚
+  â”‚    fix/<n>           bug fixes                           â”‚
+  â”‚    chore/docs/<n>    maintenance + documentation         â”‚
+  â”‚                                                          â”‚
+  â”‚  PRs always include: tests Â· description Â· screenshots   â”‚
+  â”‚  Beginner issues tagged: good-first-issue                â”‚
+  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 ---
@@ -155,22 +169,24 @@ Student-focused buy/sell flows · campus-scoped listings · peer-to-peer transac
 ## $ cat ./for-hiring-managers.txt
 
 ```
-  Open to:  Remote · Contract · Full-time
-  Timezone: WAT (UTC+1) — flexible overlap with EU / US teams
+  Open to:  Remote Â· Contract Â· Full-time
+  Timezone: WAT (UTC+1) â€” flexible overlap with EU / US teams
 
   What I bring to a team:
-    ✓  End-to-end ownership — I take features from spec to prod
-    ✓  Payment systems experience (Flutterwave, Paystack, Stripe)
-    ✓  API design, auth architecture, background job patterns
-    ✓  Automation mindset — I remove toil before it piles up
-    ✓  I write documentation and I actually mean it
+    âœ“  End-to-end ownership â€” I take features from spec to prod
+    âœ“  Payment systems experience (Flutterwave, Paystack, Stripe)
+    âœ“  API design, auth architecture, background job patterns
+    âœ“  AI agent systems â€” multi-agent orchestration, tool routing, model integration
+    âœ“  Automation mindset â€” I remove toil before it piles up
+    âœ“  I write documentation and I actually mean it
 
   Available for:
-    → Full-stack web development (React / Next.js + Node.js)
-    → Mobile apps (iOS + Android via React Native)
-    → API & backend services
-    → Workflow automation (n8n, Zapier, custom pipelines)
-    → Technical consulting and code reviews
+    â†’ Full-stack web development (React / Next.js + Node.js)
+    â†’ Mobile apps (iOS + Android via React Native)
+    â†’ API & backend services
+    â†’ AI agent systems & multi-agent orchestration
+    â†’ Workflow automation (n8n, Zapier, custom pipelines)
+    â†’ Technical consulting and code reviews
 ```
 
 ---
@@ -179,10 +195,10 @@ Student-focused buy/sell flows · campus-scoped listings · peer-to-peer transac
 
 | Channel | |
 |---|---|
-| 📧 Email | [jonahtrimwet@gmail.com](mailto:jonahtrimwet@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/trimwet-trimwet-052208342](https://www.linkedin.com/in/trimwet-trimwet-052208342) |
-| 🐦 X / Twitter | [@trimwets_diary](https://x.com/trimwets_diary) |
-| 🐙 GitHub | [github.com/Trimwet](https://github.com/Trimwet?tab=repositories) |
+| ðŸ“§ Email | [jonahtrimwet@gmail.com](mailto:jonahtrimwet@gmail.com) |
+| ðŸ’¼ LinkedIn | [linkedin.com/in/trimwet-trimwet-052208342](https://www.linkedin.com/in/trimwet-trimwet-052208342) |
+| ðŸ¦ X / Twitter | [@trimwets_diary](https://x.com/trimwets_diary) |
+| ðŸ™ GitHub | [github.com/Trimwet](https://github.com/Trimwet?tab=repositories) |
 
 > DM me or open an issue in any repo. I respond.
 
@@ -199,4 +215,3 @@ Student-focused buy/sell flows · campus-scoped listings · peer-to-peer transac
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/Trimwet/Trimwet/blob/main/LICENSE)
 
 </div>
-
