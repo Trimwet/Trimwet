@@ -70,8 +70,6 @@ If you need someone who can take a product from idea to deployed -- that's what 
 
 ## cat ./projects
 
-### Solo Projects
-
 #### [orgle](https://github.com/Trimwet/orgle)
 > Multi-agent orchestration framework with OpenCode bridge and Buzz relay.
 
@@ -121,8 +119,6 @@ Interactive Nigeria map, hub discovery, guest application flow, admin dashboard.
 `React` `Supabase` `Tailwind CSS`
 
 ---
-
-### Collaborated Projects
 
 #### [Campusbuyng](https://github.com/rijing240/Campusbuyng)
 > Campus marketplace connecting student buyers and sellers across Nigerian universities.
