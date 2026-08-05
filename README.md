@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # TRIMWET
 
@@ -95,6 +95,14 @@ Webhook handling, admin dashboard, mobile-ready UI.
 
 Symptom assessment, condition triage, facility finder.
 `TypeScript`
+
+---
+
+#### [MediQ](https://github.com/Trimwet/MediQ)
+> Appointment and queue management system for hospitals and clinics.
+
+Admin dashboard, real-time queue tracking, patient check-ins, doctor scheduling.
+`React` `TypeScript` `Vite` `shadcn/ui` `Supabase`
 
 ---
 
@@ -200,3 +208,4 @@ Student-focused buy/sell flows, campus-scoped listings, peer-to-peer transaction
 ![Profile Views](https://komarev.com/ghpvc/?username=Trimwet&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
+
