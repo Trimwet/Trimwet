@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # TRIMWET
 
@@ -128,12 +128,6 @@ Student-focused buy/sell flows, campus-scoped listings, peer-to-peer transaction
 
 ---
 
-#### [CampusBuy](https://github.com/rijing240/CampusBuy)
-> Online marketplace for campus communities.
-
-`TypeScript`
-
----
 
 
 
